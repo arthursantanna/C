@@ -1,9 +1,9 @@
 Contagem de Palavras com Busca Binária Recursiva
 
-Descrição
+Descrição:
 Este programa em C realiza a contagem de palavras em um arquivo de texto, ignorando diferenças entre letras maiúsculas e minúsculas. Ele utiliza uma busca binária recursiva para verificar se uma palavra já foi encontrada anteriormente. Se a palavra já existir na lista, seu contador é incrementado. Caso contrário, a palavra é adicionada à lista e a lista é reordenada para manter a ordem alfabética.
 
-Funcionalidades
+Funcionalidades:
 Leitura de arquivo: O programa lê palavras de um arquivo de texto.
 Conversão para minúsculas: Todas as palavras são convertidas para minúsculas para garantir que a contagem seja insensível a maiúsculas.
 Busca binária recursiva: Utiliza busca binária recursiva para localizar palavras já existentes na lista.
